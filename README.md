@@ -22,6 +22,10 @@ Me encanta involucrarme en proyectos que me desafíen y me permitan contribuir c
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+### Me encantaría estar en contacto, ¡contáctame!
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/60px-LinkedIn_logo_initials.png)](https://www.linkedin.com/in/pablo-sánchezgarcía/)
+
 <!---
 Pabarkyan/Pabarkyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
