@@ -1,6 +1,6 @@
 # ¡Hola! Bienvenido a mi perfil de GitHub 👋
 
-💻 **Soy un aspirante a Científico de Datos con pasión por el aprendizaje automático y las soluciones basadas en datos.**
+💻 **Data Scientist.**
 
 ---
 
